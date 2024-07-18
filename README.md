@@ -7,6 +7,9 @@
 **Overview of the Project**
 
 **Project**: Arduino-based Temperature and Humidity Monitoring System
+![T2](https://github.com/user-attachments/assets/c6e8df14-5ddc-47fa-aafe-793d4c3de9e6)
+![ta2](https://github.com/user-attachments/assets/72eb9232-9147-4de9-abb5-a096e3249ab8)
+![tas2](https://github.com/user-attachments/assets/a269f619-d70a-4593-b1b9-180c2e77e7ba)
 
 **Key Activities**<br>
 
