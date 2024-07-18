@@ -19,7 +19,11 @@
 **Technologies Used**<br>
 
 **• Hardware**:Arduino board (e.g., Arduino Uno)DHT11 or DHT22 temperature and humidity sensorLCD screen (e.g., 16x2 LCD with I2C interface) or a serial monitorBreadboard and jumper wires. <br>
-**• Software**:Arduino IDEDHT sensor library (e.g., Adafruit DHT library)LiquidCrystal_I2C library (for LCD display)Key InsightsBasic Sensor.<br> **• Interfacing**:This project demonstrates how to interface sensors with a microcontroller, providing a practical understanding of reading and processing environmental data. <br>
+**• Software**:Arduino IDEDHT sensor library (e.g., Adafruit DHT library)LiquidCrystal_I2C library (for LCD display). 
+
+**Key Insights**
+
+**• Basic Sensor Interfacing**:This project demonstrates how to interface sensors with a microcontroller, providing a practical understanding of reading and processing environmental data. <br>
 **• Real-Time Data Monitoring**:Users learn to display real-time sensor data on an LCD screen or serial monitor, highlighting the importance of real-time data acquisition and presentation in embedded systems.<br>
 **• Library Utilization**:The project showcases the use of external libraries (e.g., Adafruit DHT, LiquidCrystal_I2C) to simplify sensor integration and LCD control, emphasizing code reuse and modularity.<br>
 **• Programming in C++**:Users gain experience in writing and structuring code in C++, including initialization, data reading, and output display, reinforcing core programming concepts.<br>
