@@ -1,4 +1,4 @@
-**Name**: BINDULATHA BHUPATHI<br>
+interf: BINDULATHA BHUPATHI<br>
 **Company**: CODTECH IT SOLUTIONS<br>
 **ID**: CTO8DS3629<br>
 **Domain**: Embedded Systems<br>
@@ -18,8 +18,11 @@
 
 **Technologies Used**<br>
 
-**• Hardware**:Arduino board (e.g., Arduino Uno)DHT11 or DHT22 temperature and humidity sensorLCD screen (e.g., 16x2 LCD with I2C interface) or a serial monitorBreadboard and jumper wires. <br>
-**• Software**:Arduino IDEDHT sensor library (e.g., Adafruit DHT library)LiquidCrystal_I2C library (for LCD display). 
+**• Hardware**:
+  a. Arduino board (e.g., Arduino Uno)DHT11 or DHT22 temperature and humidity sensor. <br>
+  b. Serial monitor  <br>
+  c. readboard and jumper wires. <br>
+**• Software**:Arduino IDEDHT sensor library (e.g., Adafruit DHT library). <br>
 
 **Key Insights**
 
