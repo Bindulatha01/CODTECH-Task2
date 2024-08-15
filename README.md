@@ -25,7 +25,7 @@
 **• Hardware**:
   a. Arduino board (e.g., Arduino Uno)DHT11 or DHT22 temperature and humidity sensor. <br>
   b. Serial monitor  <br>
-  c. readboard and jumper wires. <br>
+  c. Breadboard and jumper wires. <br>
 **• Software**:Arduino IDEDHT sensor library (e.g., Adafruit DHT library). <br>
 
 **Key Insights**
